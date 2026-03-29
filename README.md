@@ -72,8 +72,8 @@ Beginner-friendly crypto analysis tools
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (your email)
+- 💼 LinkedIn:[Kassem Al Kassem] www.linkedin.com/in/kassem-elkassem-90ba6212a
+- 📧 Email: kassem.al.kassem85@gmail.com
 
 ---
 
