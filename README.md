@@ -26,6 +26,30 @@
 
 ## 📂 Featured Projects
 
+### 💎 Data Engine Pro (NEW 🔥)
+
+📊 Advanced Data Analytics Dashboard built with Streamlit
+
+Description
+A full Business Intelligence platform that allows users to upload datasets, clean data, visualize insights, and perform statistical analysis — all in one powerful web app.
+
+✨ Key Features
+📂 Upload and analyze CSV datasets
+🧹 Data cleaning (missing values, duplicates)
+📊 Interactive visualizations (Plotly)
+📈 KPI metrics & dashboards
+🔍 Smart filtering system
+💡 Automated statistical insights
+🛠️ Data transformation tools
+🎨 Premium UI (modern dashboard design)
+👤 Built-in personal portfolio section
+🧰 Tech Stack
+Python
+Streamlit
+Pandas
+NumPy
+Plotly
+
 ### 🔹 Silent CV Analyzer
 AI-powered tool that analyzes CVs against job descriptions  
 ✔️ ATS Score  
