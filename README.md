@@ -1,149 +1,35 @@
-# 👋 Hi, I'm Kassem Al Kassem
+# Hi there! I am Kassem Al Kassem
 
-💼 **Data Analyst | Business Intelligence Developer**
-📊 Turning data into actionable insights through analytics, dashboards, and automation.
-
----
-
-## 🧠 About Me
-
-I am a results-driven Data Analyst passionate about building **data-driven applications** and **interactive dashboards**.
-I specialize in Python, SQL, and Business Intelligence tools to transform raw data into meaningful insights.
+### Data Analyst | BI Developer | Automation Specialist
 
 ---
 
-## 🚀 Featured Projects
+## Showcased Projects
+
+### 1. Advanced Analytics Dashboard (The Data Engine)
+A premium Streamlit-based EDA platform for instant data cleaning and visualization.
+[View Project](https://github.com/admincrafted/DataAnalysisProjecr)
+
+### 2. PlagDetectAI
+An AI-driven plagiarism detection engine with a modern glassmorphic interface.
+[View Project](https://github.com/admincrafted/PlagDetectAI)
+
+### 3. Silent CV Analyzer 
+Automating the recruitment process by extracting key skills and match scores using NLP.
+[View Project](https://github.com/admincrafted/SilentCVAnalyzer)
 
 ---
 
-### 💎 Data Engine Pro (NEW 🔥)
+## My Tech Stack
 
-📊 **Advanced Data Analytics Dashboard using Streamlit**
+- Languages: Python, SQL
+- - Data and BI: Pandas, Power BI, Tableau
+  - - Web and App: Streamlit, Flask
+   
+    - ---
 
-#### 🔹 Description
+    ## Contribution Stats
 
-A powerful BI web application that enables users to upload datasets, clean data, visualize trends, and generate insights — all in one place.
-
-#### ✨ Key Features
-
-* 📂 Upload and analyze CSV datasets
-* 🧹 Data cleaning (missing values, duplicates)
-* 📊 Interactive visualizations (Plotly)
-* 📈 KPI dashboard (rows, memory, missing values)
-* 🔍 Dynamic filtering system
-* 💡 Statistical insights & profiling
-* 🛠️ Data transformation tools
-* 🎨 Modern UI (glassmorphism design)
-* 👤 Built-in personal portfolio section
-
-#### 🧰 Tech Stack
-
-* Python
-* Streamlit
-* Pandas
-* NumPy
-* Plotly
-
-#### ▶️ Run the Project
-
-```bash
-streamlit run dashboard.py
-```
-
----
-
-### 📊 Smart Expense Analyzer
-
-💡 Analyze personal or business expenses and detect unnecessary spending.
-
-#### Features:
-
-* Expense categorization
-* Monthly summaries
-* Waste detection
-* Savings prediction
-
----
-
-### 🤖 AI CV Analyzer
-
-📄 Upload your CV + job description and get:
-
-* ATS Score
-* Missing keywords
-* Improvement suggestions
-* Recruiter simulation
-
----
-
-### 🎯 Data Analyst Project Generator
-
-Generate complete data projects based on:
-
-* Skill level
-* Tools (Python / SQL / Power BI)
-
----
-
-## 🛠️ Skills
-
-### 📊 Data Analysis
-
-* Pandas, NumPy
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-
-### 📈 Visualization
-
-* Plotly
-* Power BI
-* Tableau
-
-### 🗄️ Databases
-
-* SQL
-* Data Modeling
-
-### 🤖 Machine Learning
-
-* Regression
-* Forecasting
-
-### 🌐 Tools
-
-* Streamlit
-* Git & GitHub
-* Excel
-
----
-
-## 📂 Repository Structure
-
-```bash
-.
-├── dashboard.py
-├── README.md
-└── other_projects/
-```
-
----
-
-## 🌐 Connect With Me
-
-* 🔗 GitHub: https://github.com/admincrafted
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 📧 Email: [your@email.com](mailto:your@email.com)
-
----
-
-## ⭐ Support
-
-If you like this repository:
-
-👉 Star ⭐ the repo
-👉 Follow me on GitHub
-👉 Connect with me on LinkedIn
-
----
-
-💡 *"Turning complex data into high-value insights."*
+    ![Stats](https://github-readme-stats.vercel.app/api?username=admincrafted&show_icons=true&theme=tokyonight&hide_border=true)
+    ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=admincrafted&layout=compact&theme=tokyonight&hide_border=true)
+    
