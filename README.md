@@ -1,112 +1,149 @@
+# 👋 Hi, I'm Kassem Al Kassem
 
-# Hi 👋, I'm Kassem Al Kassem
-
-🎯 Data Analyst | Power BI | SQL | Python  
-💡 Building smart tools that solve real-world problems  
-📊 Passionate about data-driven decision making  
+💼 **Data Analyst | Business Intelligence Developer**
+📊 Turning data into actionable insights through analytics, dashboards, and automation.
 
 ---
 
-## 🚀 About Me
-- 🔍 Data Analyst with strong focus on insights & dashboards  
-- 📈 Skilled in Power BI, Excel automation & SQL  
-- 🤖 Building AI-powered web applications  
+## 🧠 About Me
 
-
----
-
-## 🛠️ Tech Stack
-- 📊 Data Analysis: Power BI, Excel, Pandas
-- 🗄️ Databases: SQL (MySQL, PostgreSQL)
-- 💻 Programming: Python
-- 🌐 Web Apps: React, JavaScript
-- 📦 Tools: Git, GitHub
+I am a results-driven Data Analyst passionate about building **data-driven applications** and **interactive dashboards**.
+I specialize in Python, SQL, and Business Intelligence tools to transform raw data into meaningful insights.
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
+
+---
 
 ### 💎 Data Engine Pro (NEW 🔥)
 
-📊 Advanced Data Analytics Dashboard built with Streamlit
+📊 **Advanced Data Analytics Dashboard using Streamlit**
 
-Description
-A full Business Intelligence platform that allows users to upload datasets, clean data, visualize insights, and perform statistical analysis — all in one powerful web app.
+#### 🔹 Description
 
-✨ Key Features
-📂 Upload and analyze CSV datasets
-🧹 Data cleaning (missing values, duplicates)
-📊 Interactive visualizations (Plotly)
-📈 KPI metrics & dashboards
-🔍 Smart filtering system
-💡 Automated statistical insights
-🛠️ Data transformation tools
-🎨 Premium UI (modern dashboard design)
-👤 Built-in personal portfolio section
-🧰 Tech Stack
-Python
-Streamlit
-Pandas
-NumPy
-Plotly
+A powerful BI web application that enables users to upload datasets, clean data, visualize trends, and generate insights — all in one place.
 
-### 🔹 Silent CV Analyzer
-AI-powered tool that analyzes CVs against job descriptions  
-✔️ ATS Score  
-✔️ Missing Keywords Detection  
-✔️ Recruiter Simulation  
+#### ✨ Key Features
 
----
+* 📂 Upload and analyze CSV datasets
+* 🧹 Data cleaning (missing values, duplicates)
+* 📊 Interactive visualizations (Plotly)
+* 📈 KPI dashboard (rows, memory, missing values)
+* 🔍 Dynamic filtering system
+* 💡 Statistical insights & profiling
+* 🛠️ Data transformation tools
+* 🎨 Modern UI (glassmorphism design)
+* 👤 Built-in personal portfolio section
 
-### 🔹 Data Analyst Project Generator
-Generates real-world data projects based on skill level  
-✔️ Dataset + Problem Statement  
-✔️ Step-by-step tasks  
-✔️ Dashboard suggestions  
+#### 🧰 Tech Stack
+
+* Python
+* Streamlit
+* Pandas
+* NumPy
+* Plotly
+
+#### ▶️ Run the Project
+
+```bash
+streamlit run dashboard.py
+```
 
 ---
 
-### 🔹 PlagDetectAI
-Web app to detect plagiarism in text/documents  
-✔️ File upload support  
-✔️ AI-based similarity detection  
+### 📊 Smart Expense Analyzer
+
+💡 Analyze personal or business expenses and detect unnecessary spending.
+
+#### Features:
+
+* Expense categorization
+* Monthly summaries
+* Waste detection
+* Savings prediction
 
 ---
 
-### 🔹 Trendy ERP
-Business management system  
-✔️ Finance & operations tracking  
-✔️ Dashboard analytics  
+### 🤖 AI CV Analyzer
+
+📄 Upload your CV + job description and get:
+
+* ATS Score
+* Missing keywords
+* Improvement suggestions
+* Recruiter simulation
 
 ---
 
-### 🔹 CryptoBasics Toolkit
-Beginner-friendly crypto analysis tools  
-✔️ Market insights  
-✔️ Simple analytics  
+### 🎯 Data Analyst Project Generator
+
+Generate complete data projects based on:
+
+* Skill level
+* Tools (Python / SQL / Power BI)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Skills
 
-![Stats](https://github-readme-stats.vercel.app/api?username=admincrafted&show_icons=true&theme=default)
+### 📊 Data Analysis
 
-![Streak](https://streak-stats.demolab.com/?user=admincrafted)
+* Pandas, NumPy
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+
+### 📈 Visualization
+
+* Plotly
+* Power BI
+* Tableau
+
+### 🗄️ Databases
+
+* SQL
+* Data Modeling
+
+### 🤖 Machine Learning
+
+* Regression
+* Forecasting
+
+### 🌐 Tools
+
+* Streamlit
+* Git & GitHub
+* Excel
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn:[Kassem Al Kassem] www.linkedin.com/in/kassem-elkassem-90ba6212a
-- 📧 Email: kassem.al.kassem85@gmail.com
+## 📂 Repository Structure
+
+```bash
+.
+├── dashboard.py
+├── README.md
+└── other_projects/
+```
 
 ---
 
-## 🎯 Current Goals
-- 🚀 Land a Data Analyst role in Europe  
-- 📊 Build advanced Power BI dashboards  
-- 🤖 Integrate AI into data applications  
+## 🌐 Connect With Me
+
+* 🔗 GitHub: https://github.com/admincrafted
+* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 📧 Email: [your@email.com](mailto:your@email.com)
 
 ---
 
-## ⚡ Fun Fact
-I turn raw data into powerful business decisions 🚀
+## ⭐ Support
+
+If you like this repository:
+
+👉 Star ⭐ the repo
+👉 Follow me on GitHub
+👉 Connect with me on LinkedIn
+
+---
+
+💡 *"Turning complex data into high-value insights."*
