@@ -11,7 +11,7 @@
 - 🔍 Data Analyst with strong focus on insights & dashboards  
 - 📈 Skilled in Power BI, Excel automation & SQL  
 - 🤖 Building AI-powered web applications  
-- 🌍 Based in Europe (Open to Remote Opportunities)
+
 
 ---
 
